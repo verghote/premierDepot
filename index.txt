@@ -1,4 +1,5 @@
 Je réalise l'activité sur git
 Cette ligne est ajoutée dans la branche master
+Cette ligne est ajoutée dans la branche test
 Je commence à comprendre le fonctionnement de Git !
 Cette ligne est ajoutée dans la branche version1
