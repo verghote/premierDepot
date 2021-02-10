@@ -1,2 +1,3 @@
 Je réalise l'activité sur git
 Je commence à comprendre le fonctionnement de Git !
+Cette ligne est ajoutée dans la branche version1
